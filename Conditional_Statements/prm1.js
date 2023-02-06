@@ -2,9 +2,9 @@ console.log("code started")
 if (120>67){
   console.log("120 is greater than");
 }
-let brush = false;
+let brushing = false;
 
-if(brush){
+if(brushing){
   console.log("Eat break fast!");
 }
 
