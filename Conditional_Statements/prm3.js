@@ -12,7 +12,7 @@ console.log("______________________ ");
 console.log("  ");
 
 
-let x= 5;
+let x= 6;
 let y= 4;
 
 if(x>y){
